@@ -20,9 +20,11 @@ Nous mettons en œuvre diverses mesures de sécurité pour protéger les donnée
 
 ## **Droits des utilisateurs**
 
-Conformément à la réglementation en vigueur, vous avez le droit de :
-- Accéder à vos données personnelles
-- Rectifier ou effacer vos données
+Conformément à la réglementation en vigueur, vous avez le droit de : 
+- Accéder aux données que vous avez saisies dans l'application
+- Rectifier ou effacer les données que vous avez saisies dans l'application
+
+Veuillez noter que toutes les données restent exclusivement sur l'appareil où l'application est installée et ne sont jamais transmises ou collectées par nos services.
 
 ## **Contact**
 

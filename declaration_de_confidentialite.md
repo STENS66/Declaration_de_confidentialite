@@ -15,7 +15,8 @@ Elles sont stockées localement et ne sont jamais partagées avec des tiers.
 ## **Partage des données**
 
 Nous ne partageons aucune donnée utilisateur avec des tiers. 
-Toutes les données restent strictement localisées sur l'appareil de l'utilisateur.
+Toutes les données restent strictement localisées sur l'appareil de l'utilisateur. 
+N'ayant aucun accès aux données saisies, consultées et enregistrées via ces applications, les utilisateurs sont donc les seuls responsables de la conservation et de l'utilisation de celles-ci.
 
 ## **Sécurité des données**
 

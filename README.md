@@ -4,19 +4,24 @@
 
 ## **Collecte de données**
 
-Nos applications de comptabilité annuelle ne collectent et ne transmettent aucune donnée vers des serveurs distants ou sur Internet. Toutes les informations saisies par l'utilisateur restent exclusivement sur l'appareil où l'application est installée.
+Nos applications de comptabilité annuelle ne collectent et ne transmettent aucune donnée vers des serveurs distants ou sur Internet. 
+Toutes les informations saisies par l'utilisateur restent exclusivement sur l'appareil où l'application est installée.
 
 ## **Utilisation des données**
 
-Les données saisies par l'utilisateur sont utilisées uniquement à des fins de traitement local sur l'appareil de l'utilisateur. Elles sont stockées localement et ne sont jamais partagées avec des tiers.
+Les données saisies par l'utilisateur sont utilisées uniquement à des fins de traitement local sur l'appareil de l'utilisateur. 
+Elles sont stockées localement et ne sont jamais partagées avec des tiers.
 
 ## **Partage des données**
 
-Nous ne partageons aucune donnée utilisateur avec des tiers. Toutes les données restent strictement localisées sur l'appareil de l'utilisateur.
+Nous ne partageons aucune donnée utilisateur avec des tiers. 
+Toutes les données restent strictement localisées sur l'appareil de l'utilisateur.
 
 ## **Sécurité des données**
 
-Nous mettons en œuvre diverses mesures de sécurité pour protéger les données stockées localement sur l'appareil de l'utilisateur. Cela inclut les mesures de sécurité fournies par le système d'exploitation et les fonctionnalités de sécurité standard de Microsoft.
+Lors de la création de ces applications, nous avons mis en œuvre toutes les mesures nécessaires pour garantir que toutes les données saisies, consultées ou enregistrées par les utilisateurs restent uniquement stockées localement sur leurs appareils. 
+Ces mesures incluent les protections offertes par le système d'exploitation et les fonctionnalités de sécurité standard de Microsoft. 
+De plus, lorsque quelqu'un télécharge une de nos applications ou consulte une page de notre dépôt sur GitHub, aucune donnée personnelle n'est collectée par défaut.
 
 ## **Droits des utilisateurs**
 

@@ -1,6 +1,5 @@
-## **Déclaration de confidentialité**
-
-**Version 1.0 - Dernière mise à jour : 02/01/2025**
+## Politique de confidentialité Comptabilité annuelle
+Politique de confidentialité pour les différentes versions de l'application "Comptabilité annuelle".
 
 ## **Collecte de données**
 

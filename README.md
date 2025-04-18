@@ -1,4 +1,4 @@
-## Politique de confidentialité Comptabilité annuelle
+## Politique de confidentialité 'Comptabilité annuelle'
 Politique de confidentialité pour les différentes versions de l'application "Comptabilité annuelle".
 
 ## **Collecte de données**

@@ -1,5 +1,5 @@
-## Politique de confidentialité 'Comptabilité annuelle'
-Politique de confidentialité pour les différentes versions de l'application "Comptabilité annuelle".
+## Politique de confidentialité 'Simple Annual Accounting'
+Politique de confidentialité pour les différentes versions de l'application "Simple Annual Accounting".
 
 ## **Collecte de données**
 
